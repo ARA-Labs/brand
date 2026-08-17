@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.export.html
+out/ink.pbm
+out/ink-traced.svg
